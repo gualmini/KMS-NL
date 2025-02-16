@@ -165,7 +165,7 @@ behandeling, want er is slechts één groep. Het tijdstip van de meting,
 meestal aangeduid als voormeting `T0` (`O1`) en nameting `T1` (`O`),
 varieert binnen proefpersonen.
 
-Dit ontwerp is over het algemeen beter beter dan het vorige
+Dit ontwerp is over het algemeen beter dan het vorige
 one-shot-case-ontwerp én beter dan helemaal geen gegevens. Toch
 beschouwen wij het als een zwak onderzoeksontwerp, omdat diverse
 bedreigingen van de validiteit niet goed ondervangen worden (zie
